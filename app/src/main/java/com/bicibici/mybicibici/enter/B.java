@@ -7,4 +7,5 @@ package com.bicibici.mybicibici.enter;
  */
 
 public class B {
+    private int a;
 }
