@@ -10,7 +10,7 @@ import android.widget.Toast;
  */
 
 public class Bi {
-    public void show(Context context){
+    public void shoWs(Context context){
         Toast.makeText(context, "HELLO", Toast.LENGTH_SHORT).show();
     }
 }
